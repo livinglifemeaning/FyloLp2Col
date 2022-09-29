@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/FyloLp2Col/static/css/main.fb3b6ddb.css",
+    "main.js": "/FyloLp2Col/static/js/main.edb6fd59.js",
+    "static/media/illustration.svg": "/FyloLp2Col/static/media/illustration.b324b94fb774ac9168ed81975d00bf9b.svg",
+    "static/media/hero-image.svg": "/FyloLp2Col/static/media/hero-image.6116277604b9ec95b6d3fb87653b13ce.svg",
+    "static/media/logo.svg": "/FyloLp2Col/static/media/logo.566a790dd466c6cdfd605d8ff38e213d.svg",
+    "index.html": "/FyloLp2Col/index.html",
+    "static/media/icon-phone.svg": "/FyloLp2Col/static/media/icon-phone.43c05d1a510cada2b8f305cbb2278ae4.svg",
+    "static/media/bg-curve-desktop.svg": "/FyloLp2Col/static/media/bg-curve-desktop.37e8a6453c888162376fd7ccfb5d1d79.svg",
+    "static/media/bg-curve-mobile.svg": "/FyloLp2Col/static/media/bg-curve-mobile.5397c1fb22bf1a658827209c7f677217.svg",
+    "static/media/icon-email.svg": "/FyloLp2Col/static/media/icon-email.19ab894b09784943bec7e08b3e1344a3.svg",
+    "static/media/icon-quotes.svg": "/FyloLp2Col/static/media/icon-quotes.fefaf075deb7ea02d1f34e3bb4c10291.svg",
+    "main.fb3b6ddb.css.map": "/FyloLp2Col/static/css/main.fb3b6ddb.css.map",
+    "main.edb6fd59.js.map": "/FyloLp2Col/static/js/main.edb6fd59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb3b6ddb.css",
+    "static/js/main.edb6fd59.js"
+  ]
+}
