@@ -1,0 +1,30 @@
+.footer{
+    background-color: var(--c-blue12);
+    color: #fff; 
+    padding: 5rem var(--p-mobile); 
+}
+
+.infoBox{
+    display: flex; 
+    flex-direction: column; 
+    gap: .8rem; 
+}
+.info{
+    display: flex; 
+    gap: 1rem; 
+    align-items: center; 
+}
+
+.logo{
+    margin-bottom: 2rem; 
+}
+
+@media (min-width: 750px) {
+    .footer{
+        padding: 5rem var(--p-desktop); 
+    }
+    .footerBar{
+display: flex; 
+justify-content: space-between;
+    }
+}

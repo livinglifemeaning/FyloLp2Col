@@ -1,0 +1,18 @@
+.bar{
+    display: flex; 
+    gap: 1rem; 
+    justify-content: center;
+}
+
+.bar svg{
+    border: solid 1px #fff; 
+    border-radius: 50%; 
+    padding: .6rem; 
+    width: 15px; 
+    height: 15px; 
+}
+
+.bar svg:hover{
+    border: solid 1px hsl(224, 93%, 65%); 
+    color: hsl(224, 93%, 65%)
+}

@@ -1,0 +1,32 @@
+.input{
+    border: solid 1px ; 
+    border-radius: var(--radius); 
+    padding: .8rem 2rem; 
+}
+
+.input.hero{
+    width: 100%; 
+}
+
+.input::placeholder{
+    color: var(--c-gray)
+}
+
+.input:focus-visible{
+    outline: none; 
+}
+
+.input.body{
+    width: 18rem; 
+    padding: .8rem; 
+}
+
+.input.invalid{
+    border: solid 1px var(--c-red); 
+}
+
+@media (min-width: 750px) {
+    .input.body{
+        width: 30rem; 
+    }
+}
